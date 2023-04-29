@@ -1,44 +1,29 @@
 {
 	"schemaVersion": 1,
-	"id": "ultimate-roleplay",
-	"version": "${version}",
+	"id": "ultimateroleplay",
+	"version": "1.0.0",
 	"name": "Ultimate Roleplay",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A Minecraft Roleplay Mod",
+	"license": "MIT",
+	"icon": "assets/ultimateroleplay/icon.png",
 	"authors": [
-		"Me!"
+		"andiricum2"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/andiricum2",
+		"sources": "https://github.com/andiricum2/ultimate-roleplay"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/ultimate-roleplay/icon.png",
-	"environment": "*",
 	"entrypoints": {
-		"main": [
-			"com.ultimateroleplay.ExampleMod"
-		],
-		"client": [
-			"com.ultimateroleplay.ExampleModClient"
-		],
-		"fabric-datagen": [
-			"com.ultimateroleplay.ExampleModDataGenerator"
+		"ultimateroleplay": [
+          "com.andiricum2.ultimateroleplay.Main"
 		]
 	},
 	"mixins": [
-		"ultimate-roleplay.mixins.json",
-		{
-			"config": "ultimate-roleplay.client.mixins.json",
-			"environment": "client"
-		}
+		"ultimateroleplay.mixins.json"
 	],
-	"depends": {
-		"fabricloader": ">=0.14.19",
-		"minecraft": "~1.19.4",
-		"java": ">=17",
+	"dependencies": {
+		"minecraft": "1.19.4",
+		"fabric-loader": ">=0.14.19",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
