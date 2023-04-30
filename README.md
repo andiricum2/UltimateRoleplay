@@ -62,7 +62,7 @@ The current version of the mod is 0.0.1.
 
 ## 🙏 Support
 
-If you encounter any issues with the mod or have suggestions for future updates, please create an issue in the [issue tracker](https://github.com/{username}/{reponame}/issues) or contact us directly. We appreciate your support!
+If you encounter any issues with the mod or have suggestions for future updates, please create an issue in the [issue tracker](https://github.com/andiricum2/UltimateRoleplay/issues) or contact us directly. We appreciate your support!
 
 ## 🤝 Contributions
 This mod is open to all, and we welcome contributions from the community. If you have an idea for a new feature or want to fix a bug, feel free to fork the repository and submit a pull request. We'll review your changes and consider merging them into the main branch. Thank you for your contributions!
