@@ -50,7 +50,7 @@ Here are some of the features we have planned for future releases:
 
 You can download the latest version of the mod from Curseforge by clicking the button below:
 
-[![Download](https://img.shields.io/badge/Download-Curseforge-green.svg)](https://www.curseforge.com/minecraft/mc-mods/ultimate-roleplay/download)
+[![Download](https://img.shields.io/badge/Download-Curseforge-green.svg)](https://www.curseforge.com/minecraft/mc-mods/ultimate-roleplay)
 
 ## 📌 Requirements
 
