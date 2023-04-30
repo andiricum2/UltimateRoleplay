@@ -5,7 +5,6 @@ build/
 out/
 classes/
 compiled/
-gradle/
 
 # eclipse
 
@@ -17,6 +16,10 @@ gradle/
 *.iml
 *.ipr
 *.iws
+
+# github
+
+.github/
 
 # vscode
 
