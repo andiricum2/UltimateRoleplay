@@ -1,4 +1,4 @@
-# 🎮 My Minecraft Roleplay Mod 🎭
+# 🎮 inecraft Ultimate Roleplay Mod 🎭
 
 [![Stars](https://img.shields.io/github/stars/andiricum2/UltimateRoleplay?style=flat-square&logo=github)](https://github.com/andiricum2/UltimateRoleplay/stargazers)
 
